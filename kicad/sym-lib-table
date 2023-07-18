@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DC_Amplifier-rescue")(type "KiCad")(uri "${KIPRJMOD}/DC_Amplifier-rescue.kicad_sym")(options "")(descr ""))
+)

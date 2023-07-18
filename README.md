@@ -4,7 +4,7 @@ A very simple non-inverting amplifier.
 
 ## PCB
 
-This PCB was designed using KiCAD version 5.
+This PCB was designed using KiCAD version 7.
 Refer to `DC_Amplifier.pdf` for schematic.
 PCB images generated with [tracespace](https://github.com/tracespace/tracespace) follow.
 
@@ -29,13 +29,13 @@ Bill of Materials
 
 ## Changelog
 
-### 1.1.0
+### B
 
 #### Changed
 - prepared for professional printing
 - changed to surface-mount passives
 
-### 1.0.0
+### A
 
 #### Added
 - initial design
